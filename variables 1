@@ -1,0 +1,18 @@
+age = 21
+height = 5.4
+name = "Lalitha"
+is_student = True 
+number = 6+20j
+marks = [20,27,30]
+coordinates = (10, 20)
+student = {"name" : "lalitha" , "age" : 21  , "course" : "Python"}
+subject = { "maths" , "physics" , "chemistry"}
+print (age , type(age))
+print (height , type(height))
+print (name , type(name))
+print (is_student , type(is_student))
+print (number , type(number))
+print (marks , type(marks))
+print (coordinates , type(coordinates))
+print (student , type(is_student))
+print (subject , type(subject))
